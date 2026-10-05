@@ -1,0 +1,51 @@
+{
+  "downloaded_at_utc": "2026-10-02T16:27:16.494277+00:00",
+  "sources": {
+    "IGDB": {
+      "revision": "9cc6d4e1e0f314b119431f34e343a79193d9a964",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/yuhangjiang22/video-game-genre-classificaion/9cc6d4e1e0f314b119431f34e343a79193d9a964/Dataset.csv",
+          "path": "raw/igdb/Dataset.csv",
+          "bytes": 17579904,
+          "sha256": "6df467058bc7fc5c7a16aecfce205039229f52786a6f7e2bd3d0f899a3a386af"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/yuhangjiang22/video-game-genre-classificaion/9cc6d4e1e0f314b119431f34e343a79193d9a964/README.md",
+          "path": "raw/igdb/README.md",
+          "bytes": 684,
+          "sha256": "b5fbea5e55303f85bf06eaf3ffde486674d5969386869940ad9db95906c8adb3"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/yuhangjiang22/video-game-genre-classificaion/9cc6d4e1e0f314b119431f34e343a79193d9a964/LICENSE",
+          "path": "raw/igdb/LICENSE",
+          "bytes": 1070,
+          "sha256": "45ce15c9976f9f644bfc28a14a07fe797d540cec4ed6a5e9b7b7383a0c9447ba"
+        }
+      ],
+      "upstream": "IGDB",
+      "declared_license": "MIT",
+      "license_note": "Repository declaration; does not independently verify rights in every third-party description/image."
+    },
+    "Steam": {
+      "revision": "5fc4b499983025edb16d9f2d70fd4bd1a0678e74",
+      "files": [
+        {
+          "url": "https://huggingface.co/datasets/FronkonGames/steam-games-dataset/resolve/5fc4b499983025edb16d9f2d70fd4bd1a0678e74/games.csv",
+          "path": "raw/steam/games.csv",
+          "bytes": 401140503,
+          "sha256": "1b48008b01a799d82385d6e66ba0cb65dd477b6aa4b6c2ec8c443025ab6880ad"
+        },
+        {
+          "url": "https://huggingface.co/datasets/FronkonGames/steam-games-dataset/resolve/5fc4b499983025edb16d9f2d70fd4bd1a0678e74/README.md",
+          "path": "raw/steam/README.md",
+          "bytes": 596,
+          "sha256": "0a8cf9d6183a6fbeeafe19d21e8a705c7229e96e50fbf8c0bc1b7fbe21e790a9"
+        }
+      ],
+      "upstream": "Steam / Steam Spy",
+      "declared_license": "MIT",
+      "license_note": "Repository declaration; does not independently verify rights in every third-party description/image."
+    }
+  }
+}
