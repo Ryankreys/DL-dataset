@@ -1,0 +1,55 @@
+﻿source,original_genre,standardised_genre,decision,reason
+igdb,"""Hackandslash/Beatemup""",Hack and Slash / Beat 'em Up,merge,Equivalent name or compound-name formatting; no broader/subgenre collapse
+igdb,Adventure,Adventure,keep,Original gameplay genre retained
+igdb,Arcade,Arcade,keep,Original gameplay genre retained
+igdb,Fighting,Fighting,keep,Original gameplay genre retained
+igdb,Indie,Indie,exclude,Production/publishing attribute
+igdb,Music,Music,review,Retain provisionally; review target definition
+igdb,Pinball,Pinball,review,Retain provisionally; review target definition
+igdb,Platform,Platform,keep,Original gameplay genre retained
+igdb,Point-and-click,Point-and-click,keep,Original gameplay genre retained
+igdb,Puzzle,Puzzle,keep,Original gameplay genre retained
+igdb,Quiz/Trivia,Quiz/Trivia,review,Retain provisionally; review target definition
+igdb,Racing,Racing,keep,Original gameplay genre retained
+igdb,RealTimeStrategy(RTS),Real-Time Strategy,merge,Equivalent name or compound-name formatting; no broader/subgenre collapse
+igdb,Role-playing(RPG),RPG,merge,Equivalent name or compound-name formatting; no broader/subgenre collapse
+igdb,Shooter,Shooter,keep,Original gameplay genre retained
+igdb,Simulator,Simulation,merge,Equivalent name or compound-name formatting; no broader/subgenre collapse
+igdb,Sport,Sports,merge,Equivalent name or compound-name formatting; no broader/subgenre collapse
+igdb,Strategy,Strategy,keep,Original gameplay genre retained
+igdb,Tactical,Tactical,keep,Original gameplay genre retained
+igdb,Turn-basedstrategy(TBS),Turn-Based Strategy,merge,Equivalent name or compound-name formatting; no broader/subgenre collapse
+igdb,VisualNovel,Visual Novel,merge,Equivalent name or compound-name formatting; no broader/subgenre collapse
+steam,360 Video,360 Video,exclude,Non-game/video category
+steam,Accounting,Accounting,exclude,Software/tool category
+steam,Action,Action,keep,Original gameplay genre retained
+steam,Adventure,Adventure,keep,Original gameplay genre retained
+steam,Animation & Modeling,Animation & Modeling,exclude,Software/tool category
+steam,Audio Production,Audio Production,exclude,Software/tool category
+steam,Casual,Casual,review,Broad gameplay category; retain provisionally
+steam,Design & Illustration,Design & Illustration,exclude,Software/tool category
+steam,Documentary,Documentary,exclude,Non-game/video category
+steam,Early Access,Early Access,exclude,Release stage
+steam,Education,Education,exclude,Software/tool category
+steam,Episodic,Episodic,exclude,Non-game/video category
+steam,Free To Play,Free To Play,exclude,Pricing model
+steam,Game Development,Game Development,exclude,Software/tool category
+steam,Gore,Gore,exclude,Content descriptor
+steam,Indie,Indie,exclude,Production/publishing attribute
+steam,Massively Multiplayer,Massively Multiplayer,review,May describe gameplay mode rather than a core genre; retain provisionally
+steam,Movie,Movie,exclude,Non-game/video category
+steam,Nudity,Nudity,exclude,Content descriptor
+steam,Photo Editing,Photo Editing,exclude,Software/tool category
+steam,RPG,RPG,keep,Original gameplay genre retained
+steam,Racing,Racing,keep,Original gameplay genre retained
+steam,Sexual Content,Sexual Content,exclude,Content descriptor
+steam,Short,Short,exclude,Non-game/video category
+steam,Simulation,Simulation,keep,Original gameplay genre retained
+steam,Software Training,Software Training,exclude,Software/tool category
+steam,Sports,Sports,keep,Original gameplay genre retained
+steam,Strategy,Strategy,keep,Original gameplay genre retained
+steam,Tutorial,Tutorial,exclude,Non-game/video category
+steam,Utilities,Utilities,exclude,Software/tool category
+steam,Video Production,Video Production,exclude,Software/tool category
+steam,Violent,Violent,exclude,Content descriptor
+steam,Web Publishing,Web Publishing,exclude,Software/tool category

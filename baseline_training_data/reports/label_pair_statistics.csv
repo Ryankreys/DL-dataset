@@ -1,0 +1,210 @@
+﻿labels,full_count,train_count,val_count,test_count
+"[""Action"", ""Adventure""]",21315,17054,2130,2131
+"[""Adventure"", ""Casual""]",18001,14404,1799,1798
+"[""Action"", ""Casual""]",15672,12541,1566,1565
+"[""Adventure"", ""RPG""]",15184,12154,1518,1512
+"[""Casual"", ""Simulation""]",12761,10210,1276,1275
+"[""Casual"", ""Strategy""]",10666,8531,1068,1067
+"[""Simulation"", ""Strategy""]",9581,7669,955,957
+"[""Adventure"", ""Simulation""]",9424,7539,942,943
+"[""Action"", ""RPG""]",8461,6771,845,845
+"[""Adventure"", ""Strategy""]",8080,6463,810,807
+"[""RPG"", ""Strategy""]",7215,5775,720,720
+"[""Casual"", ""RPG""]",7091,5674,709,708
+"[""Action"", ""Simulation""]",6595,5278,658,659
+"[""Action"", ""Strategy""]",6386,5110,637,639
+"[""RPG"", ""Simulation""]",5368,4291,539,538
+"[""Simulation"", ""Sports""]",3653,2922,365,366
+"[""Casual"", ""Sports""]",2575,2059,257,259
+"[""Action"", ""Sports""]",2316,1855,231,230
+"[""Racing"", ""Simulation""]",2176,1743,217,216
+"[""Action"", ""Racing""]",2066,1651,208,207
+"[""Racing"", ""Sports""]",1991,1591,200,200
+"[""Casual"", ""Racing""]",1980,1582,199,199
+"[""Adventure"", ""Puzzle""]",1941,1553,194,194
+"[""Adventure"", ""Platform""]",1775,1422,177,176
+"[""Action"", ""Massively Multiplayer""]",1570,1258,156,156
+"[""Adventure"", ""Sports""]",1378,1103,138,137
+"[""Adventure"", ""Racing""]",1355,1084,135,136
+"[""Sports"", ""Strategy""]",1355,1084,135,136
+"[""Adventure"", ""Shooter""]",1221,976,123,122
+"[""Real-Time Strategy"", ""Strategy""]",1180,943,119,118
+"[""Massively Multiplayer"", ""RPG""]",1130,905,113,112
+"[""Adventure"", ""Massively Multiplayer""]",1064,854,105,105
+"[""Arcade"", ""Shooter""]",1036,829,104,103
+"[""Platform"", ""Puzzle""]",931,746,92,93
+"[""Casual"", ""Massively Multiplayer""]",915,732,91,92
+"[""Puzzle"", ""Strategy""]",865,693,86,86
+"[""Massively Multiplayer"", ""Strategy""]",838,670,85,83
+"[""Massively Multiplayer"", ""Simulation""]",788,632,78,78
+"[""Strategy"", ""Turn-Based Strategy""]",781,627,77,77
+"[""Adventure"", ""Point-and-click""]",761,609,76,76
+"[""RPG"", ""Sports""]",650,520,65,65
+"[""Racing"", ""Strategy""]",618,494,62,62
+"[""Platform"", ""Shooter""]",598,480,59,59
+"[""Shooter"", ""Simulation""]",576,461,58,57
+"[""Strategy"", ""Tactical""]",535,428,53,54
+"[""Adventure"", ""Hack and Slash / Beat 'em Up""]",530,425,53,52
+"[""Shooter"", ""Strategy""]",517,414,51,52
+"[""Adventure"", ""Visual Novel""]",453,364,44,45
+"[""RPG"", ""Shooter""]",452,362,45,45
+"[""Arcade"", ""Platform""]",432,345,44,43
+"[""RPG"", ""Turn-Based Strategy""]",400,320,40,40
+"[""RPG"", ""Racing""]",394,316,39,39
+"[""Adventure"", ""Arcade""]",377,302,37,38
+"[""Fighting"", ""Hack and Slash / Beat 'em Up""]",346,278,34,34
+"[""Arcade"", ""Puzzle""]",335,268,34,33
+"[""Fighting"", ""Sports""]",310,248,30,32
+"[""Hack and Slash / Beat 'em Up"", ""RPG""]",307,246,30,31
+"[""Point-and-click"", ""Puzzle""]",303,243,30,30
+"[""Adventure"", ""Fighting""]",301,240,30,31
+"[""Arcade"", ""Racing""]",298,239,30,29
+"[""Real-Time Strategy"", ""Simulation""]",293,235,29,29
+"[""Puzzle"", ""Simulation""]",291,233,29,29
+"[""RPG"", ""Tactical""]",282,226,28,28
+"[""Shooter"", ""Tactical""]",250,200,25,25
+"[""Massively Multiplayer"", ""Sports""]",243,195,24,24
+"[""Platform"", ""RPG""]",235,189,23,23
+"[""Racing"", ""Shooter""]",233,186,23,24
+"[""Massively Multiplayer"", ""Racing""]",230,184,23,23
+"[""Platform"", ""Strategy""]",220,176,22,22
+"[""Puzzle"", ""Shooter""]",220,176,22,22
+"[""Hack and Slash / Beat 'em Up"", ""Platform""]",219,176,22,21
+"[""Arcade"", ""Fighting""]",218,175,21,22
+"[""Arcade"", ""Sports""]",212,170,21,21
+"[""Arcade"", ""Simulation""]",210,168,21,21
+"[""Arcade"", ""Strategy""]",208,166,21,21
+"[""Puzzle"", ""RPG""]",204,163,21,20
+"[""Shooter"", ""Sports""]",192,154,19,19
+"[""Tactical"", ""Turn-Based Strategy""]",192,154,19,19
+"[""Adventure"", ""Turn-Based Strategy""]",184,147,19,18
+"[""Quiz/Trivia"", ""Strategy""]",183,147,18,18
+"[""Fighting"", ""RPG""]",173,139,17,17
+"[""Adventure"", ""Tactical""]",164,132,16,16
+"[""Simulation"", ""Tactical""]",162,130,16,16
+"[""Simulation"", ""Turn-Based Strategy""]",158,126,16,16
+"[""Platform"", ""Racing""]",157,125,16,16
+"[""RPG"", ""Real-Time Strategy""]",156,125,15,16
+"[""Fighting"", ""Platform""]",154,123,15,16
+"[""Puzzle"", ""Quiz/Trivia""]",142,114,14,14
+"[""Fighting"", ""Shooter""]",136,110,13,13
+"[""Fighting"", ""Strategy""]",132,106,13,13
+"[""Arcade"", ""Hack and Slash / Beat 'em Up""]",122,98,12,12
+"[""Quiz/Trivia"", ""Sports""]",122,98,13,11
+"[""Puzzle"", ""Sports""]",120,96,12,12
+"[""Hack and Slash / Beat 'em Up"", ""Shooter""]",118,94,12,12
+"[""Platform"", ""Sports""]",110,88,11,11
+"[""Real-Time Strategy"", ""Tactical""]",108,86,11,11
+"[""Music"", ""Simulation""]",103,83,10,10
+"[""Adventure"", ""Real-Time Strategy""]",95,76,10,9
+"[""Music"", ""Puzzle""]",89,71,9,9
+"[""Real-Time Strategy"", ""Shooter""]",88,70,9,9
+"[""Simulation"", ""Visual Novel""]",88,71,9,8
+"[""Arcade"", ""Music""]",85,69,8,8
+"[""Platform"", ""Simulation""]",84,67,9,8
+"[""Puzzle"", ""Racing""]",83,67,8,8
+"[""Fighting"", ""Simulation""]",81,65,8,8
+"[""Hack and Slash / Beat 'em Up"", ""Strategy""]",77,61,8,8
+"[""Puzzle"", ""Turn-Based Strategy""]",76,60,8,8
+"[""Adventure"", ""Music""]",74,60,7,7
+"[""RPG"", ""Visual Novel""]",72,57,8,7
+"[""Arcade"", ""RPG""]",69,55,7,7
+"[""Fighting"", ""Racing""]",66,53,6,7
+"[""Pinball"", ""Sports""]",65,52,6,7
+"[""Arcade"", ""Pinball""]",60,48,6,6
+"[""Real-Time Strategy"", ""Turn-Based Strategy""]",60,48,6,6
+"[""Sports"", ""Turn-Based Strategy""]",58,46,6,6
+"[""Quiz/Trivia"", ""Simulation""]",56,45,5,6
+"[""Adventure"", ""Quiz/Trivia""]",52,42,5,5
+"[""Hack and Slash / Beat 'em Up"", ""Sports""]",50,40,5,5
+"[""Music"", ""Platform""]",49,35,5,9
+"[""Music"", ""Shooter""]",47,37,7,3
+"[""Fighting"", ""Puzzle""]",46,33,6,7
+"[""Pinball"", ""Shooter""]",46,36,4,6
+"[""Music"", ""Sports""]",43,35,3,5
+"[""Pinball"", ""Simulation""]",43,35,5,3
+"[""Point-and-click"", ""RPG""]",43,35,4,4
+"[""Pinball"", ""Puzzle""]",40,33,4,3
+"[""Arcade"", ""Tactical""]",39,30,5,4
+"[""Music"", ""Strategy""]",39,29,6,4
+"[""Puzzle"", ""Tactical""]",39,30,4,5
+"[""Point-and-click"", ""Strategy""]",38,30,4,4
+"[""Puzzle"", ""Visual Novel""]",37,29,5,3
+"[""Point-and-click"", ""Simulation""]",36,27,3,6
+"[""Adventure"", ""Pinball""]",33,28,2,3
+"[""Fighting"", ""Turn-Based Strategy""]",32,25,4,3
+"[""Hack and Slash / Beat 'em Up"", ""Puzzle""]",30,27,1,2
+"[""Quiz/Trivia"", ""Turn-Based Strategy""]",30,23,4,3
+"[""Puzzle"", ""Real-Time Strategy""]",28,25,1,2
+"[""Hack and Slash / Beat 'em Up"", ""Racing""]",27,23,2,2
+"[""Shooter"", ""Turn-Based Strategy""]",26,22,1,3
+"[""Quiz/Trivia"", ""RPG""]",24,19,2,3
+"[""Fighting"", ""Real-Time Strategy""]",23,17,4,2
+"[""Point-and-click"", ""Visual Novel""]",23,19,2,2
+"[""Arcade"", ""Real-Time Strategy""]",22,18,3,1
+"[""Hack and Slash / Beat 'em Up"", ""Real-Time Strategy""]",22,17,3,2
+"[""Pinball"", ""Platform""]",22,17,2,3
+"[""Pinball"", ""Racing""]",22,18,3,1
+"[""Strategy"", ""Visual Novel""]",22,16,3,3
+"[""Hack and Slash / Beat 'em Up"", ""Simulation""]",21,17,2,2
+"[""Pinball"", ""Strategy""]",21,20,1,0
+"[""Music"", ""Racing""]",20,15,3,2
+"[""Fighting"", ""Music""]",18,17,1,0
+"[""Real-Time Strategy"", ""Sports""]",18,14,0,4
+"[""Sports"", ""Tactical""]",17,15,1,1
+"[""Music"", ""RPG""]",16,13,1,2
+"[""Fighting"", ""Tactical""]",14,11,1,2
+"[""Platform"", ""Turn-Based Strategy""]",14,13,0,1
+"[""Arcade"", ""Turn-Based Strategy""]",13,9,1,3
+"[""Platform"", ""Point-and-click""]",13,10,2,1
+"[""Platform"", ""Quiz/Trivia""]",12,11,1,0
+"[""Pinball"", ""RPG""]",11,9,1,1
+"[""Point-and-click"", ""Shooter""]",11,10,0,1
+"[""Quiz/Trivia"", ""Shooter""]",11,8,3,0
+"[""Racing"", ""Real-Time Strategy""]",11,9,1,1
+"[""Arcade"", ""Quiz/Trivia""]",10,8,1,1
+"[""Hack and Slash / Beat 'em Up"", ""Tactical""]",10,8,1,1
+"[""Platform"", ""Real-Time Strategy""]",10,9,1,0
+"[""Point-and-click"", ""Racing""]",10,9,0,1
+"[""Arcade"", ""Point-and-click""]",9,9,0,0
+"[""Point-and-click"", ""Sports""]",9,7,1,1
+"[""Fighting"", ""Quiz/Trivia""]",8,7,0,1
+"[""Music"", ""Real-Time Strategy""]",8,4,2,2
+"[""Point-and-click"", ""Quiz/Trivia""]",8,6,1,1
+"[""Racing"", ""Turn-Based Strategy""]",8,6,2,0
+"[""Hack and Slash / Beat 'em Up"", ""Turn-Based Strategy""]",7,6,1,0
+"[""Fighting"", ""Pinball""]",6,6,0,0
+"[""Music"", ""Pinball""]",6,5,0,1
+"[""Music"", ""Visual Novel""]",6,6,0,0
+"[""Quiz/Trivia"", ""Racing""]",6,6,0,0
+"[""Tactical"", ""Visual Novel""]",6,5,1,0
+"[""Turn-Based Strategy"", ""Visual Novel""]",6,6,0,0
+"[""Hack and Slash / Beat 'em Up"", ""Music""]",5,5,0,0
+"[""Hack and Slash / Beat 'em Up"", ""Quiz/Trivia""]",5,4,0,1
+"[""Music"", ""Quiz/Trivia""]",5,3,1,1
+"[""Platform"", ""Tactical""]",5,5,0,0
+"[""Point-and-click"", ""Tactical""]",5,5,0,0
+"[""Quiz/Trivia"", ""Tactical""]",5,4,0,1
+"[""Racing"", ""Tactical""]",5,4,0,1
+"[""Hack and Slash / Beat 'em Up"", ""Pinball""]",4,4,0,0
+"[""Hack and Slash / Beat 'em Up"", ""Point-and-click""]",4,3,1,0
+"[""Pinball"", ""Real-Time Strategy""]",4,4,0,0
+"[""Pinball"", ""Turn-Based Strategy""]",4,4,0,0
+"[""Point-and-click"", ""Real-Time Strategy""]",4,4,0,0
+"[""Shooter"", ""Visual Novel""]",4,4,0,0
+"[""Music"", ""Point-and-click""]",3,1,1,1
+"[""Music"", ""Tactical""]",3,3,0,0
+"[""Music"", ""Turn-Based Strategy""]",3,3,0,0
+"[""Pinball"", ""Quiz/Trivia""]",3,3,0,0
+"[""Fighting"", ""Point-and-click""]",2,2,0,0
+"[""Pinball"", ""Point-and-click""]",2,2,0,0
+"[""Platform"", ""Visual Novel""]",2,1,1,0
+"[""Point-and-click"", ""Turn-Based Strategy""]",2,2,0,0
+"[""Quiz/Trivia"", ""Real-Time Strategy""]",2,2,0,0
+"[""Quiz/Trivia"", ""Visual Novel""]",2,2,0,0
+"[""Sports"", ""Visual Novel""]",2,1,1,0
+"[""Fighting"", ""Visual Novel""]",1,1,0,0
+"[""Hack and Slash / Beat 'em Up"", ""Visual Novel""]",1,0,0,1
+"[""Pinball"", ""Tactical""]",1,1,0,0
+"[""Racing"", ""Visual Novel""]",1,1,0,0
+"[""Real-Time Strategy"", ""Visual Novel""]",1,1,0,0
